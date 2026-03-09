@@ -1,0 +1,14 @@
+C:\Users\mohan\source\repos\BMI_index\BMI_index\obj\Debug\net8.0\BMI_index.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohan\source\repos\BMI_index\BMI_index\obj\Debug\net8.0\BMI_index.AssemblyInfoInputs.cache
+C:\Users\mohan\source\repos\BMI_index\BMI_index\obj\Debug\net8.0\BMI_index.AssemblyInfo.cs
+C:\Users\mohan\source\repos\BMI_index\BMI_index\obj\Debug\net8.0\BMI_index.csproj.CoreCompileInputs.cache
+C:\Users\mohan\source\repos\BMI_index\BMI_index\bin\Debug\net8.0\BMI_index.exe
+C:\Users\mohan\source\repos\BMI_index\BMI_index\bin\Debug\net8.0\BMI_index.deps.json
+C:\Users\mohan\source\repos\BMI_index\BMI_index\bin\Debug\net8.0\BMI_index.runtimeconfig.json
+C:\Users\mohan\source\repos\BMI_index\BMI_index\bin\Debug\net8.0\BMI_index.dll
+C:\Users\mohan\source\repos\BMI_index\BMI_index\bin\Debug\net8.0\BMI_index.pdb
+C:\Users\mohan\source\repos\BMI_index\BMI_index\obj\Debug\net8.0\BMI_index.dll
+C:\Users\mohan\source\repos\BMI_index\BMI_index\obj\Debug\net8.0\refint\BMI_index.dll
+C:\Users\mohan\source\repos\BMI_index\BMI_index\obj\Debug\net8.0\BMI_index.pdb
+C:\Users\mohan\source\repos\BMI_index\BMI_index\obj\Debug\net8.0\BMI_index.genruntimeconfig.cache
+C:\Users\mohan\source\repos\BMI_index\BMI_index\obj\Debug\net8.0\ref\BMI_index.dll
