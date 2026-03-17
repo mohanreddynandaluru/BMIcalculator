@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BMI_index")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92a5286258ec032f29ef647f423fb44119ad70d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("BMI_index")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BMI_index")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

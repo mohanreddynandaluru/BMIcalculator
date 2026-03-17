@@ -12,3 +12,4 @@ C:\Users\mohan\source\repos\BMI_index\BMI_index\obj\Debug\net8.0\refint\BMI_inde
 C:\Users\mohan\source\repos\BMI_index\BMI_index\obj\Debug\net8.0\BMI_index.pdb
 C:\Users\mohan\source\repos\BMI_index\BMI_index\obj\Debug\net8.0\BMI_index.genruntimeconfig.cache
 C:\Users\mohan\source\repos\BMI_index\BMI_index\obj\Debug\net8.0\ref\BMI_index.dll
+C:\Users\mohan\source\repos\BMI_index\BMI_index\obj\Debug\net8.0\BMI_index.sourcelink.json
